@@ -15,17 +15,6 @@
 > * Wrote dao repositories for each entity extending JpaRepository
 > * COMPLETE
 
-
-•    a purchase data class with a customer cart and a set of cart items
-
-•    a purchase response data class that contains an order tracking number
-
-•    a checkout service interface
-
-•    a checkout service implementation 
-
-
-
 > * Added nullable = false to certain fields
 > * Added updatable = false for create dates
 > * Converted Sets into HashSets
